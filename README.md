@@ -1,9 +1,10 @@
 # 🎬 Movie Ticket Booking 
 
 A responsive Movie Ticket Booking web application built using HTML, CSS, and JavaScript (or React.js). The application allows users to browse movies, view showtimes, select seats, and proceed to the booking interface with a modern and user-friendly design.
+## live Demo
+Your site is live at https://sagar-chand.github.io/Movie-Ticket-booking/
 
 ## 🚀 Features
-
 - Responsive design for desktop and mobile
 - Browse available movies
 - View movie details
